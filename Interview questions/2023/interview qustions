@@ -1,0 +1,47 @@
+1)UseState ,useeffect,useMemo,useCallback,useRef-Must
+‌2)Lifecycle of react components-must
+‌3)virtual dom-must
+‌4)class vs Function-Must
+‌5)React context
+‌6)Prop Drilling
+‌7)Improve React app performance,how Did you improved performance of your project
+‌8)Controlled and uncontrolled Component
+‌9)Portals in React?
+‌10)pure component .what is the equivalent of it in  functional component?
+‌11)Implement a error boundary
+‌12)Implement Navigation via React Router Dom
+‌13)When To use context and when to use Redux?
+‌14)Shell we use Use Memo,Use Callback for everything? functions and Object , If not When to use What
+‌why redux thunk
+‌what is the state? what is props?
+‌state and Use Selector differant?when you need to use?
+
+
+Js interview questions
+-----------------------
+‌What are closures?
+‌Difference Between call apply bind
+‌Event Loop
+‌Prototype concepts, write your own map method
+‌Memoization
+‌Higher order function
+‌Event Delegation
+
+‌Promises
+‌Hoisting
+‌Deep Vs Shallow copy
+‌Temporal Dead Zone
+‌ Let vs const vs Var
+‌Implement debouncing and Throttling and Their use in your Project if any
+‌how to update files and photos in react
+‌how to work react interceptor with axios.
+‌Cors error.
+‌write a example custom hooks
+‌write debounce custom hooks 
+‌write api call product list implement search and filter?after implement Use debounce custom hooks
+‌remove duplicate from array
+‌polindrom efficiently identify 
+‌what is middle ware? why they use thunk api?
+‌string method polyfill?
+‌map dispatch to props
+‌promise inside settime out

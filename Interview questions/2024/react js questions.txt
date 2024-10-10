@@ -1,0 +1,60 @@
+react js questions
+------------------
+1)virtual Dom
+2)React class component ,functional component
+3)useState, useMemo, useCllback, useRef, useEffect ,useReducer, useContext 
+4)How to pass data parent to child child to parent(which scenario can use)
+5)Explain micro frontend explain 
+4)webpack why , how to configure
+5)What is SSR explain ? why
+6)redux thunk why use? why redux , props drilling
+6)redux architecture , 
+7)what is reducer ,extra Reducers
+8)can I use multiple store in one app?
+9)How to application follow frontend security?
+10)page performance tools
+11)micro frontend and modulefetaraion plugin end explain?
+12)testing jest , write some test case
+13)explain webpack configuration in server side rendering concept 
+14)what is the new fetures implement react explain?
+
+
+write a program
+-----------------
+1)Api call print product filter all dropdown filter
+2)make toto list
+3)pagination
+4)to to list
+5)stopwatch
+5)dropdown , auto complete , modal,
+6)make accordion
+7)Breadcrumb
+8)use reducer with darak light theme use use Context
+10)how to data pass child to parent
+11)simple form validation
+
+Manger
+-------
+pakage.json ,pakagelog.json ifferance
+npm 
+dependency
+dev dependency difference
+CI/CD pipeline
+GIT questions
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
