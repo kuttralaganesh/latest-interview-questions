@@ -223,7 +223,7 @@ Semantic tag
 Flex and Grid difference
 box grid
 parent flex and child evenly give the space how will do?
-canvas and svg difference
+canvas and svg difference?
 
 
 
