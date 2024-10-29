@@ -229,7 +229,14 @@ console.log(2 + +'7')
 
 18)Please write a code api call using react redux , testing useing jest framework all cases failure, sucess case 
 
+19)
 
+You have given a list of intervals. Write a program to merge overlapping intervals.  Example 
+Input: Given list of intervals: [[1, 3], [2, 6], [8, 10]]  Here 2 falls in between 1 and 3 therefore the merge become [1, 6] next is [1, 6] but 8 do not fall in [1, 6] therefore the final output is [[1, 6], [8, 10]]  
+Output: List of intervals after merging: [[1, 6], [8, 10]]    
+
+Input: Given list of intervals: [[1, 3], [2, 9], [8, 10]]  
+Output: List of intervals after merging: [[1, 10]]
 
 HTML CSS questions
 ------------------
