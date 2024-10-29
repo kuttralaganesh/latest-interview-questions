@@ -217,6 +217,9 @@ const [a=0,b=0] = some();
 console.log(a ,b)
 
 17)
+Referance just Please study all questions in in interview in
+https://rowdycoders.com/
+
 console.log(true || 2)  
 console.log(null && undefined) 
 console.log(false || 2)  
